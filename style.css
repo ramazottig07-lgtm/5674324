@@ -24,11 +24,13 @@ p {
 
 img {
    width: 817px;
-   height: 545px; 
+   height: 545px;
+    margin-left: 100px;
 }
 
 .z {
     width: 824px;
     height: 360px;
+    margin-left: 100px;
 }
 
